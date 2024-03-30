@@ -1,5 +1,6 @@
 # xise998
 Tg频道xise998
 
-批量检测是否存在站群，如果存在就全部插入js和php劫持代码，自动保存结果!
-[1904](https://user-images.githubusercontent.com/115095267/235578844-faa63237-8a62-480b-88e3-c50a83bb8c65.png)
+更多功能强大功能以及getshell，黑帽类型程序可添加频道！
+
+![XISE菜刀对比](https://github.com/htgetshell/xise998/assets/115095267/2ff7498f-9f63-4282-8327-adb55ad4b8e9)
