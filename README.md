@@ -4,6 +4,7 @@ Tg频道xise998
 更多功能强大功能以及getshell，黑帽类型程序可添加频道！
 
 ![XISE菜刀对比](https://github.com/htgetshell/xise998/assets/115095267/2ff7498f-9f63-4282-8327-adb55ad4b8e9)
+![下载方式](https://github.com/htgetshell/xise998/assets/115095267/d7f3e4fe-fe5f-420f-a4a9-b4f015f4f4bb)
 
   <p>更新日志-
 新增一句话可过安全狗,使用时请将杀软关闭使用。
