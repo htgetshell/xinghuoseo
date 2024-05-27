@@ -1,3 +1,4 @@
+
 # xise998
 Tg频道xise998
 
@@ -7,6 +8,12 @@ Tg频道xise998
 ![下载方式](https://github.com/htgetshell/xise998/assets/115095267/d7f3e4fe-fe5f-420f-a4a9-b4f015f4f4bb)
 
   <p>更新日志-
+更新日期2024.0527
+修复部分bug，增强免杀功能
+
+更新日期2024.05.12
+新增chr16编码器兼容免杀更多webshell
+
 新增一句话可过安全狗,使用时请将杀软关闭使用。
 <br>
 新概念网站后台远程多功能管理系统——XISE 网站后台管理系统
