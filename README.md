@@ -1,6 +1,6 @@
 
-# xise998
-Tg频道xise998
+# xinghuoseo
+Tg频道xinghuoxise
 
 更多功能强大功能以及getshell，黑帽类型程序可添加频道！
 
