@@ -3,6 +3,7 @@
 Tg频道xinghuoxise
 星火黑帽seou论坛：www.xhuoseo.com
 更多功能强大功能以及getshell，黑帽类型程序可添加频道！
+![103133723](https://github.com/user-attachments/assets/b2146aab-2bc0-41eb-8468-f93181179953)
 
 ![XISE菜刀对比](https://github.com/htgetshell/xise998/assets/115095267/2ff7498f-9f63-4282-8327-adb55ad4b8e9)
 ![下载方式](https://github.com/htgetshell/xise998/assets/115095267/d7f3e4fe-fe5f-420f-a4a9-b4f015f4f4bb)
